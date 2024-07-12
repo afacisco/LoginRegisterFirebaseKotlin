@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266472707248",
+    "project_id": "fir-taller-83869",
+    "storage_bucket": "fir-taller-83869.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266472707248:android:cbd13e78cf44c013ee9775",
+        "android_client_info": {
+          "package_name": "com.example.loginfirebasekotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcMbnS7UBJ5ShAqCaNvq0aZ6ca1HDoHG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
